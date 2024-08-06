@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Leyllio
-- 👀 I’m interested in Programming and cybersécurity
+- 👀 I’m interested in Programming and cybersecurity
