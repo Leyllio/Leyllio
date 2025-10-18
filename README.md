@@ -13,5 +13,7 @@ Currently exploring **automation**, **data manipulation**, and **software design
 
 ## 📊 GitHub Stats
 ![Leyllio's Stats](https://github-readme-stats.vercel.app/api?username=Leyllio&theme=dark&show_icons=true&count_private=true)
+
 ![Leyllio's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leyllio&theme=dark&layout=compact)
+
 ![Leyllio's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Leyllio&theme=dark)
